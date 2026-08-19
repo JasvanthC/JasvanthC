@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2025<br>📚 I'm currently exploring the IT world<br>🎮 I'm a competitive gamer</p>
+<p data-importer="text" align="left">✨ .......................<br>📚 I'm currently exploring the IT world<br>🎮 I'm a competitive gamer</p>
 
 ###
 
